@@ -1,7 +1,7 @@
 # calculator
 
 <p align="center">
-  <img src="https://ik.imagekit.io/b0g9wlasxh/codedrops/calculator/logo_DQwXscF6m.png" width="250" >
+  <img src="https://ik.imagekit.io/b0g9wlasxh/codedrops/calculator/logo_DQwXscF6m.png" width="300" >
 </p>
 
 
