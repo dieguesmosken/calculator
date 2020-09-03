@@ -28,3 +28,4 @@ git clone https://github.com/bielb2/calculator
 # Open index.html with Live Server
 ```
 Or [click here](https://bielb2.github.io/calculator/) to see it working.
+or [youtube link](https://www.youtube.com/watch?v=j59qQ7YWLxw&list=PLhAYqyL8bdjy10dbfKoxnO4CXyGR9quCs&index=8&t=0s) para ver o tutorial
